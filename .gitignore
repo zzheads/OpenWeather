@@ -1,0 +1,7 @@
+Pods/Alamofire
+Pods/Kingfisher
+Pods/Pods.xcodeproj
+Pods/Target Support Files
+Pods/Manifest.lock
+.DS_Store
+Podfile.lock
